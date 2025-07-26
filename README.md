@@ -50,3 +50,12 @@ Build and run the app on a device/emulator
 Tap the "Check Update" button
 If a newer version exists, you’ll see a prompt with release notes
 Accept to begin downloading and installation
+
+## MIT License
+
+Copyright (c) 2025 Jyoti Nishad
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
