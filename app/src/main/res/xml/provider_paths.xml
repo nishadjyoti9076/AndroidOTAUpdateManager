@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<paths>
-    <external-files-path name="apk" path="." />
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-files-path
+        name="ota_apks"
+        path="." />
 </paths>
+
+
+
+
+
+
+
+    <!--
+    <?xml version="1.0" encoding="utf-8"?>
+    <paths xmlns:android="http://schemas.android.com/apk/res/android">
+        <external-files-path
+            name="apks"
+            path="downloads/" />
+    </paths>
+    -->
